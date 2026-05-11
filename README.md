@@ -106,7 +106,6 @@ Minha base sólida em Arduino e robótica me proporcionou um raciocínio lógico
           <ins><strong>📽️ Movie Tech</strong></ins> (JS • HTML • CSS)<br />
           <br />
           <a href="https://github.com/SandyLemos/Trabalho-Cinema">
-            <img src="movie tech.png" width="100%" alt="Thumbnail do Projeto Movie Tech"/>
           </a>
           <p align="left">
             <br />
@@ -122,9 +121,6 @@ Minha base sólida em Arduino e robótica me proporcionou um raciocínio lógico
         <td width="50%" valign="top">
           <ins><strong> EVEM - Event Managment + dashboard</strong></ins> (TypeScript + CSS)<br />
           <br />
-          <a href=https://www.figma.com/design/Lx2MnVacUIE6pKXoEVTI5Q/Gerenciamento-de-eventos?node-id=356-2&t=qp6I8QhKZ2YrnDX9-1>
-            <img src="EVEM.png" width="100%" alt="Thumbnail do Projeto de gerenciamento de eventos"/>
-          </a>
           <p align="left">
             <br />
             <strong>O Desafio:</strong> Criar uma plataforma bilateral que integra a jornada do participante (compra e ingressos) à visão do administrador (gestão e métricas), garantindo uma experiência fluida para ambos os perfis.<br />
